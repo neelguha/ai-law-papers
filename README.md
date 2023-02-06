@@ -10,9 +10,12 @@ What happens when the models break?
 
 ## Administrative decision making
 
-
 ## Criminal law 
 
 ## Practice of law 
 
 ## Speech
+
+## Privacy 
+
+- [Tragedy of the Data Commons](http://jolt.law.harvard.edu/articles/pdf/v25/25HarvJLTech1.pdf) (Jane Yakowitz, 2011): The idea that anonymization is insufficient to protect privacy is commonly cited in justifications to limit the release of large public datasets. This Article argues that that this idea is flawed, and threatens to foreclose potentially valuable research findings from these datasets. 
