@@ -8,7 +8,10 @@ What happens when the models break?
 - [When AIs Outperform Doctors: Confronting the Challenges of a Tort-Induced Over-Reliance on Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3114347) (A. Michael Froomkin, Ian R. Kerr, Joelle Pineau, 2019). At the current rate, we should expect AI systems to outperform most doctors for a number of medical diagnostic tasks. At that point, relying on the AI system's predictions will become the standard of care. This Article investigates the consequences of such a future. 
 - [Crashworthy Code](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3230829) (Bryan H. Choi, 2019): Drawing on lessons learned from the development of the crashworthiness doctrine in automotive litigation, this Article suggests a similar standard should be applied to negligence in software. In short, thought "[r]equiring all code to be perfect is impossible... expecting code to be crashworthy is reasonable."
 
-## Administrative decision making
+## Governmental decision making
+What are the implications when _governments_ use AI for adjudication, planning, or other decision making processes?
+
+- [The Automated Administrative State: A Crisis of Legitimacy](https://scholarlycommons.law.emory.edu/cgi/viewcontent.cgi?article=1418&context=elj) (Ryan Calo & Danielle Keats Citron, 2021): Agencies are increasingly relying AI to automate tasks previously performed by agency officials. But if agencies were originally delegated the power to perform those tasks because of percieved expertise in those areas, doesn't their reliance on AI diminish the need for the delegation? Citron and Calo pose this question, provide an answer, and then suggest a future for a technologically informed administrative state that retains legitimacy.
 
 ## Criminal law 
 
