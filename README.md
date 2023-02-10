@@ -13,7 +13,9 @@ What are the implications when _governments_ use AI for adjudication, planning, 
 
 - [The Automated Administrative State: A Crisis of Legitimacy](https://scholarlycommons.law.emory.edu/cgi/viewcontent.cgi?article=1418&context=elj) (Ryan Calo & Danielle Keats Citron, 2021): Agencies are increasingly relying AI to automate tasks previously performed by agency officials. But if agencies were originally delegated the power to perform those tasks because of percieved expertise in those areas, doesn't their reliance on AI diminish the need for the delegation? Citron and Calo pose this question, provide an answer, and then suggest a future for a technologically informed administrative state that retains legitimacy.
 
-## Criminal law 
+## Criminal justice
+
+- [Glass Box Artificial Intelligence in Criminal Justice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4275661) (Brandon L. Garrett, Cynthia Rudin, 2022): This Article suggests that claims about the accuracy vs transparency tradeoff for AI in criminal justice contexts is overblown, and suggests that "Glass Box" AI (i.e. more interpretable methods), offer a more just and lawful path forward.
 
 ## Practice of law 
 
